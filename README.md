@@ -1,2 +1,2 @@
-# ZeScreenshot
-ZeScreenshot repository
+# ZeDShot
+ZeDShot (ex. ZeScreenshot) repository
