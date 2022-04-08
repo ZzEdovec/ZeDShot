@@ -1,2 +1,2 @@
 # ZeScreenshot
-ZeScreenshot repository
+Этот репозиторий больше не используется. Страница ZeD Shot теперь размещается в репозитории сайта ZzEdovec
